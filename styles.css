@@ -32,4 +32,12 @@ form {
 hr{
     border-color: cadetblue;
 }
+#paral{
+    text-align: center;
+    color: rgb(229, 18, 18);
+}
 
+.center{
+    text-align: center;
+    color:blue;
+}
